@@ -1,0 +1,20 @@
+{
+    "name": "voceconnect/wp-media-modal",
+    "description": "Creates a modal window for media selection in WordPress 3.5+",
+    "keywords": ["wordpress", "media", "modal"],
+    "license": "GPLv2+",
+    "authors": [
+        {
+            "name": "Gary Smirny",
+            "email": "gary@voceconnect.com"
+        },
+        {
+            "name": "Chris, Scott",
+            "email": "cscott@voceconnect.com"
+        }
+    ],
+    "type": "library",
+    "autoload": {
+        "files": ["wp-media-modal.php"]
+    }
+}
